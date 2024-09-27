@@ -17,9 +17,12 @@ Este é um projeto de uma aplicação para gerenciar uma clínica veterinária, 
 
 ## Instalação
 
-1- clone o repositorio: 
-2- baixe o banco de dados do link: gdrive(pendente)
-3- 
+1- Clone o repositorio: https://github.com/Tiagodeev/Clinica-veterinaria-java.git
+
+2- Baixe o banco de dados do link: (pendente)
+
+3- Abra o projeto na IDE ja instalada no seu sistema
+
 4- execute o projeto
 
 
