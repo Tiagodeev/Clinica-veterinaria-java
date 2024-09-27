@@ -32,6 +32,7 @@ Este é um projeto de uma aplicação para gerenciar uma clínica veterinária, 
 
 
 ## Autores
-- Fabio Henrique - ztrug
-- Tiago melo - tiagodeev
-- Joserlan gonçalves -
+
+- Fabio Henrique - https://github.com/ztrug
+- Tiago melo - https://github.com/tiagodeev
+- Joserlan gonçalves -https://github.com/joserlan08
