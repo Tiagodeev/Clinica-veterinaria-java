@@ -15,7 +15,13 @@ Este é um projeto de uma aplicação para gerenciar uma clínica veterinária, 
 -java
 -mysql
 
-## como executar
+## Instalação
+
+1- clone o repositorio: 
+2- baixe o banco de dados do link: gdrive(pendente)
+3- 
+4- execute o projeto
+
 
 ## Diagrama de casos de uso:
 ![863e7ad4-b252-44f5-892b-95b269877f50](https://github.com/user-attachments/assets/e2cdc100-7451-4afc-add2-d6c522494c60)
