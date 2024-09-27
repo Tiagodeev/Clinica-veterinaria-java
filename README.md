@@ -5,4 +5,4 @@
 
 file:///C:/Users/fabio/Desktop/Diagrama%20de%20classescv.pdf
 
-/Clinica-veterinaria-java/file:///C:/Users/fabio/Desktop/Diagrama%20de%20classescv.pdf
+/Clinica-veterinaria-java/file://C:/Users/fabio/Desktop/Diagrama%20de%20classescv.pdf
