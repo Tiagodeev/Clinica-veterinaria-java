@@ -1,5 +1,3 @@
-
-
 # Sistema de gerencimento para uma Clinica veterinaria
 Este é um projeto de uma aplicação para gerenciar uma clínica veterinária, desenvolvida em Java. A aplicação atende tanto os funcionários quanto os proprietários de animais, proporcionando um atendimento mais eficiente e organizado. O sistema  permite o cadastro de animais, agendamento de consultas e gestão de dados.
 
@@ -31,3 +29,9 @@ Este é um projeto de uma aplicação para gerenciar uma clínica veterinária, 
 
 ## Diagrama de classes:
 ![Diagrama de classescv_page-0001](https://github.com/user-attachments/assets/fdec55b8-a7d5-490c-94b0-50410d3dbb88)
+
+
+## Autores
+- Fabio Henrique - ztrug
+- Tiago melo - tiagodeev
+- Joserlan gonçalves -
