@@ -1,8 +1,6 @@
 package model;
 import java.util.Date;
 
-import model.Funcionario.Veterinario;
-
 public class Servico {
 	
 	class ServicoPadrao{
